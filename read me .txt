@@ -1,0 +1,31 @@
+project-name : VNC Channel (vision network channel)
+project-code : MMOAA
+
+Team Members :
+1- Alaa Mersa [Team leader]
+2- Muhammed Hesham  
+3- Omar Saeed 
+4- Muhammed Ashraf
+5- Abdelrahman Abdelsatar
+
+requirements the project
+========================
+
+[1] Requirements for database and problems 
+[2] EER diagram drawing 
+[3] Mapping EER for Relational model 
+[4] EER diagram on workbench 
+   > EER diagram(tables)
+   > relations between tables (total,partial,1:1,1:M,M:N)	
+   > insert data
+   > forward engineer last step before queries
+[5] queries [last step to implement project]
+ 
+---------------------------------------------------------------------
+> Faculty of Science - Ain Shams University 
+  > Department of computer science  
+  > Department computer science and statistics 
+---------------------------------------------------------------------
+special thanks for DR.WAEL ZAKRIEA [COMP207-Database] 
+---------------------------------------------------------------------
+
